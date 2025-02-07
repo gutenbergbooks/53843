@@ -1,4 +1,40 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 53843 ***
+The Project Gutenberg eBook, Oaths of Allegiance in Colonial New England,
+by Charles Evans
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Oaths of Allegiance in Colonial New England
+
+
+Author: Charles Evans
+
+
+
+Release Date: December 31, 2016  [eBook #53843]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK OATHS OF ALLEGIANCE IN COLONIAL
+NEW ENGLAND***
+
+
+E-text prepared by Richard Tonsing and the Online Distributed Proofreading
+Team (http://www.pgdp.net) from page images generously made available by
+Internet Archive (https://archive.org)
+
+
 
 Note: Project Gutenberg also has an HTML version of this
       file which includes the original illustrations.
@@ -13,7 +49,7 @@ Note: Project Gutenberg also has an HTML version of this
       https://archive.org/details/oathsofallegianc00evan
 
 
-Transcriber’s note:
+Transcriber's note:
 
       Text enclosed by underscores is in italics (_italics_).
 
@@ -26,16 +62,6 @@ Transcriber’s note:
       single character following the carat is superscripted
       (example: y^e). Multiple superscripted characters are
       enclosed by curly brackets (example: w^{th}).
-
-      Some characters might not display in this UTF-8 text
-      version or in the html version. If so, the reader should
-      consult the iso-8859-1 (Latin-1) text file 53843-8.txt
-      or 53843.zip:
-      http://www.gutenberg.org/files/53843/53843-8.txt
-      or
-      http://www.gutenberg.org/files/53843/53843-8.zip
-      or should consult the original page images referred to
-      above.
 
 
 
@@ -98,10 +124,10 @@ CONTENTS
         Oath of Fidelitie
         Freemans Oath
     In Connecticut and New Haven Colonies.
-        An Oath for Paqua’ and the Plantations there
+        An Oath for Paqua' and the Plantations there
         The Oath of a Freeman
     In New Haven Colony.
-        Freeman’s Charge
+        Freeman's Charge
         Oath of Fidelity
         Oath of Allegiance
     In Rhode Island and Providence Plantations.
@@ -143,11 +169,11 @@ power.
 
 For the main purpose of this paper it will not be necessary to go
 further back in history than to the reign of James the First, of
-England, 1603–1625, during which time the providences of God directed
+England, 1603-1625, during which time the providences of God directed
 the course of the voyage of the Pilgrims away from the Colony of
 Virginia to their settlement at Plymouth in New England, in December,
 1620; or to carry the subject beyond the time, in the short-lived reign
-of James the Second, 1685–1689, when, in December, 1686, Sir Edmund
+of James the Second, 1685-1689, when, in December, 1686, Sir Edmund
 Andros, knight, arrived in Boston with a commission to govern New
 England, and the Colonial period of New England came to an end.
 
@@ -187,8 +213,8 @@ in England, under Henry the Eighth, and his successor, Edward the Sixth,
 was repealed under Mary Tudor, and revived under Elizabeth, in 1558.
 Following the Gunpowder Plot, James the First, in 1605, had enacted an
 Oath of Allegiance, also, which all British subjects were required to
-take. This Oath of “submission and obedience to the King as a temporal
-Sovereign, independent of any other power upon earth” contained no
+take. This Oath of "submission and obedience to the King as a temporal
+Sovereign, independent of any other power upon earth" contained no
 acknowledgment of the King as the head of the Church, and, by this
 omission, Roman Catholics could take it without denying the supremacy of
 the Pope in spiritual affairs:
@@ -211,9 +237,9 @@ the Pope in spiritual affairs:
   Tumult or to offer any violence or hurte to his Majestie Royall Pson
   State or Government or to any of his Majesties Subjects within his
   Majesties Dominions. Also I doe sweare from my heart, that
-  notwithstanding any Declarac̄on or Sentence of Excommunicac̄on or
-  Deprivac̄on made or graunted or to be made or graunted by the Pope
-  or his Successors, or by any Authoritie derived or p̄tended to be
+  notwithstanding any Declaracon or Sentence of Excommunicacon or
+  Deprivacon made or graunted or to be made or graunted by the Pope or
+  his Successors, or by any Authoritie derived or ptended to be
   derived from hym or his Sea against the saide King his Heires or
   Successors, or any Absolution of the saide Subjects from theire
   Obedience; I will beare Faithe and true Allegiaunce to his Majestie
@@ -221,42 +247,42 @@ the Pope in spiritual affairs:
   uttermost of my power against all Conspiracies and Attempts
   whatsoever which shalbe made against his or theire persons theire
   Crowne and Dignitie by reason or colour of any such Sentence or
-  Declarac̄on or otherwise, and will doe my best endevour to disclose
+  Declaracon or otherwise, and will doe my best endevour to disclose
   and make knowen unto his Majestie his Heires and Successors all
   Treasons and traiterous Conspiracies which I shall knowe or heare of
   to be against hym or any of them. And I doe further sweare, That I
   doe from my heart abhor, detest and abjure as impious and hereticall
   this damnable Doctrine and Position, that Princes which be
-  excōmunicated or deprived by the Pope may be deposed or murthered
-  by theire Subjects or any other whosoever. And I doe beleeve and in
-  my Conscience am resolved, that neither the Pope nor any pson
+  excomunicated or deprived by the Pope may be deposed or murthered by
+  theire Subjects or any other whosoever. And I doe beleeve and in my
+  Conscience am resolved, that neither the Pope nor any pson
   whatsoever hath power to absolve me of this Oath or any parte
   therof, which I acknowledge by good and full Authoritye to be
   lawfully ministered unto mee, and doe renounce all Pardons and
-  Dispensac̄ons to the contrarie; And all these things I do plainly
-  and sincerely acknowledge and sweare, according to these expresse
-  wordes by me spoken, and according to the playne and cōmon sense
-  and understanding of the same wordes, without any equivocac̄on or
-  mentall evasion or secret reservac̄on whatsoever; And I doe make
-  this recognic̄on and acknowledgment heartily willingly and truly
-  upon the true Faithe of a Christian: So help me God. Unto which Oath
-  so taken, the saide pson shall subscribe his or her Name or Marke.
+  Dispensacons to the contrarie; And all these things I do plainly and
+  sincerely acknowledge and sweare, according to these expresse wordes
+  by me spoken, and according to the playne and comon sense and
+  understanding of the same wordes, without any equivocacon or mentall
+  evasion or secret reservacon whatsoever; And I doe make this
+  recognicon and acknowledgment heartily willingly and truly upon the
+  true Faithe of a Christian: So help me God. Unto which Oath so
+  taken, the saide pson shall subscribe his or her Name or Marke.
   [1605.]
 
 Both of these Oaths were commanded during the reign of Charles the
-First, 1625–1649.
+First, 1625-1649.
 
 By the third Charter of the Virginia Company, their Treasurer, or any
 two of the Council, were empowered to administer the Oaths of Supremacy,
 and of Allegiance, to all persons going to their Colony. And the
 Pilgrims, through their chief men, agreed with the Virginia Company:
-“The Oath of Supremacy we shall willingly take, if it be required of us,
+"The Oath of Supremacy we shall willingly take, if it be required of us,
 if that convenient satisfaction be not given by our taking the Oath of
-Allegiance. John Robinson. William Brewster.”
+Allegiance. John Robinson. William Brewster."
 
 The Charter of the Massachusetts-Bay Company gave them broader powers in
 that it did not exact this provision from them but gave the Company
-liberty to admit new members, called “Freemen” of the Company, and no
+liberty to admit new members, called "Freemen" of the Company, and no
 method, conditions, or qualifications were presented for conferring this
 privilege. Their leaders, as we shall see, were quick to take advantage
 of the opportunity given them to frame their own Oaths of citizenship.
@@ -265,12 +291,12 @@ representative of the Church of England, realized the powers of
 colonization this gave the dissenting churchmen; and, in 1637, a
 Proclamation was issued, aimed principally to prevent the emigration of
 Puritan Ministers, which commanded that none should be suffered to go to
-New England “without a certificate that they had taken the Oaths of
+New England "without a certificate that they had taken the Oaths of
 Supremacy and Allegiance, and had conformed to the discipline of the
-Church of England.” In 1638, another Proclamation “commanded owners and
+Church of England." In 1638, another Proclamation "commanded owners and
 masters of vessels that they do not fit out any with passengers and
 provisions to New-England, without license from the Commissioners of
-Plantations.”
+Plantations."
 
 Another Oath, drawn up in England, also claims a place here because it
 was sometimes voluntarily taken by settlers in the New England Colonies.
@@ -299,7 +325,7 @@ reign of his Roman Catholic successor, James the Second, the Oath of
 Supremacy was allowed to lapse, and the Oath of Allegiance, only, was in
 full force in the Colonies, up to the publication of his declaration of
 liberty of conscience for all denominations in England and Scotland, in
-1687–1688, which sealed his doom.
+1687-1688, which sealed his doom.
 
 These preliminaries are necessary to a full understanding of our subject
 which naturally begins, in point of time, with the settlement
@@ -323,7 +349,7 @@ permanent settlements elsewhere. They seemed doomed to failure. And yet
 hardly that, when we consider the impress upon our Nation made by their
 sterling qualities of mind and heart, their patience and fortitude under
 severe trials, the hopes and ambition of their teachings, and their
-never-failing trust in God’s Providence. These high qualities still
+never-failing trust in God's Providence. These high qualities still
 animate and live in the great and growing number who proudly claim their
 ancestry from the Pilgrims at New Plymouth.
 
@@ -374,7 +400,7 @@ Council in 1624.
   Neither shall you suffer the same to be spoken, or done, but shall
   hinder, & oposse the same, by all due means you can.
 
-  You shall not enter into any league, treaty, Confederac̄ or
+  You shall not enter into any league, treaty, Confederac or
   combination, with any, within the said Colonie or without the same
   that shall plote, or contriue any thing to the hurte, & ruine of the
   growth, and good of the said plantation.
@@ -398,9 +424,9 @@ Council in 1624.
   plantation, to the vtmost of your power; and oppose any thing that
   may hinder the same. So help you God.
 
-The words, “a true Christian” were afterwards crossed out, and the form
-used later: “as you hope for help from God, the God of truth and
-punisher of falsehood” was substituted.
+The words, "a true Christian" were afterwards crossed out, and the form
+used later: "as you hope for help from God, the God of truth and
+punisher of falsehood" was substituted.
 
 By the Laws of 1636, every freeman was required to take the following
 Oath:
@@ -412,27 +438,27 @@ Oath:
   successors, [the State & Govern^t of England as it now stands.] You
   shall not speake or doe, devise or advise any thing or things act or
   acts directly or indirectly by land or water, that doth shall or may
-  tend to the destrucc̄on or overthrow of this pr̄nt plantac̄ons
-  Colonies or Corporac̄on of New Plymouth, Neither shall you suffer
-  the same to be spoken or done but shall hinder oppose & discover the
-  same to the Govr̄ & Assistants of the said Colony for the time being
-  or some one of them. You shall faithfully submit unto such good &
-  wholesome laws & ordnanc & as either are or shall be made for the
-  ordering & governm^t of the same, and shall endeavor to advance the
-  growth & good of the severall Colonies plantations w^{th} in the
-  limit & of this Corporac̄on by all due meanes & courses. All w^{ch}
-  you promise & sweare by the name of the great God of heaven & earth
-  simply truly & faithfully to pforme as you hope for help frō God
-  who is the God of truth & punisher of falsehood. [1636]
+  tend to the destruccon or overthrow of this prnt plantacons Colonies
+  or Corporacon of New Plymouth, Neither shall you suffer the same to
+  be spoken or done but shall hinder oppose & discover the same to the
+  Govr & Assistants of the said Colony for the time being or some one
+  of them. You shall faithfully submit unto such good & wholesome laws
+  & ordnanc & as either are or shall be made for the ordering &
+  governm^t of the same, and shall endeavor to advance the growth &
+  good of the severall Colonies plantations w^{th} in the limit & of
+  this Corporacon by all due meanes & courses. All w^{ch} you promise
+  & sweare by the name of the great God of heaven & earth simply truly
+  & faithfully to pforme as you hope for help fro God who is the God
+  of truth & punisher of falsehood. [1636]
 
-Following the outbreak of civil war in England in 1638, the words “our
-sovereign lord King Charles his heirs and successors” were erased, and
-loyalty to “the State and Government of England as it now stands”
+Following the outbreak of civil war in England in 1638, the words "our
+sovereign lord King Charles his heirs and successors" were erased, and
+loyalty to "the State and Government of England as it now stands"
 substituted. The modern rendering intermixed is probably an attempt by
 the transcriber to fill out missing or undecipherable paragraphs or
 sentences.
 
-According to Francis Baylies’ “Historical Memoir of New Plymouth,” (I:
+According to Francis Baylies' "Historical Memoir of New Plymouth," (I:
 235,) the following Oath was prescribed to be taken by any residing in
 the government of New Plymouth:
 
@@ -454,14 +480,14 @@ the government of New Plymouth:
   limits thereof. So help you God. [1636.]
 
 The disturbed state of England is also reflected in the 1658 revision of
-the Laws when “our sovereign lord the King, his heirs and successors” is
-substituted for “the present State and Government of England,” as
+the Laws when "our sovereign lord the King, his heirs and successors" is
+substituted for "the present State and Government of England," as
 follows:
 
 
                          THE OATH OF A FFREEMAN
 
-  You shalbee truely Loyall to the present State and Goūment of
+  You shalbee truely Loyall to the present State and Goument of
   England [our Sou^r Lord the King his heires and Successors.] You
   shall not speake or doe deuise or aduise Any thinge or thinges Acte
   or Actes directly or Indirectly by Land or Water that doth shall or
@@ -515,30 +541,30 @@ Yale College only one graduate who bore the Christian name of Charles.
 _In Massachusetts-Bay Colony._
 
 
-When on the 4th of March 1628/9, Charles, “by the grace of God, Kinge of
+When on the 4th of March 1628/9, Charles, "by the grace of God, Kinge of
 England, Scotland, Fraunce, and Ireland, Defender of the Fayth, &c. in
-the fourth yeare of our raigne” did by letters patent grant unto Sir
+the fourth yeare of our raigne" did by letters patent grant unto Sir
 Henry Rosewell and his twenty-five associates, their heirs and assigns
 forever, all that certain part of the grant of New England which his
-“deare and royall father, Kinge James of blessed memory ... hath given
+"deare and royall father, Kinge James of blessed memory ... hath given
 and graunted vnto the Counsell established at Plymouth in the County of
-Devon” and which the said Council by deed dated the 19th of March,
-1627/8, had “given, graunted, bargained, soulde, enfeoffed, aliened and
-confirmed” to Sir Henry Rosewell, Sir John Young, Knightes, Thomas
+Devon" and which the said Council by deed dated the 19th of March,
+1627/8, had "given, graunted, bargained, soulde, enfeoffed, aliened and
+confirmed" to Sir Henry Rosewell, Sir John Young, Knightes, Thomas
 Southcott, John Humphrey, John Endecott and Symon Whetcombe, their heirs
-and associates forever, “To be houlden of vs our heires and successors,
+and associates forever, "To be houlden of vs our heires and successors,
 as of our manor of Eastgreenewich, in the County of Kent, within our
-realme of England,” under the name of the “Governor and Company of the
+realme of England," under the name of the "Governor and Company of the
 Mattachusetts Bay in Newe England, one bodie politique and corporate in
 deede, fact, and name, ... and that by that name they shall have
-perpetuall succession,”—may acquire lands, &c. have a common seal; and
+perpetuall succession,"--may acquire lands, &c. have a common seal; and
 that there shall be one Governor, one Deputy Governor, and eighteen
 assistants to be chosen out of the freemen. He went farther, and
-constituted “our welbeloved Mathewe Cradocke to be the first and present
+constituted "our welbeloved Mathewe Cradocke to be the first and present
 Governor; Thomas Goffe to be Deputy Governor, and eighteen of the other
 associates to be Assistants, who before they undertake the execution of
 their offices and places shall respectively take their corporal oaths
-for the faithful performance of their duties.” The Oath for Matthew
+for the faithful performance of their duties." The Oath for Matthew
 Craddock, as Governor, to be administered by a Master of the Chancery,
 the Governor was then empowered to administer the oaths to the Deputy
 Governor and Assistants nominated in the Charter. Oaths to subsequent
@@ -547,33 +573,33 @@ old Deputy Governor, or two Assistants; and the new Deputy Governor,
 Assistants and all other officers hereafter chosen to take the oath
 before the Governor for the time being. They were empowered to transport
 any of our loving subjects, or any strangers willing to become our
-loving subjects, and any seven at least of their number had “full power
+loving subjects, and any seven at least of their number had "full power
 and authoritie to choose, nominate, and appointe such and soe many
 others as they shall thinke fitt, and that shall be willing to accept
 the same, to be free of the said Company and Body, and Them into the
-same to admitt.” All subjects inhabiting the lands granted, and their
-children “which shall happen to be borne there, or on the seas in goeing
+same to admitt." All subjects inhabiting the lands granted, and their
+children "which shall happen to be borne there, or on the seas in goeing
 thither, or retorning from thence shall have and enjoy all liberties and
 immunities of free and natural subjects, ... as yf they and everie of
-them were borne within the realme of England.” And the Governor and
+them were borne within the realme of England." And the Governor and
 Deputy Governor, and any two or more of the Assistants, at any of their
 Courts or Assemblys shall and may at all times have full power to give
 the Oath of Office and Oaths of Supremacy and Allegiance, or either of
 them, to every person who may go to New England to inhabit in the same.
-They were also authorized to make “the formes of such Oathes warrantable
+They were also authorized to make "the formes of such Oathes warrantable
 by the lawes and statutes of this our realme of England as shalbe
-respectivelie ministered vnto them, for the execuc̄on of the said
+respectivelie ministered vnto them, for the execucon of the said
 severall offices and places ... and ministring the said oathes to the
-newe elected officers.”
+newe elected officers."
 
 At the end of the Charter appeared the Oath of Governor:
 
-  PRÆDICT, Matthaeus Cradocke Juratus est de Fide et Obedientiâ Regi
-  et Successoribus suis, et de Debitâ Exequutione Officij Gubernatoris
+  PRAEDICT, Matthaeus Cradocke Juratus est de Fide et Obedientia Regi
+  et Successoribus suis, et de Debita Exequutione Officij Gubernatoris
   iuxta Tenorem P^r sentium, 18^o Martij, 1628. Coram me, Carola
-  Cæsare, Milite, in Cancellariâ Mr̃o.
+  Caesare, Milite, in Cancellaria Mro.
 
-                                                          Char. Cæsar.
+                                                          Char. Caesar.
 
 By this Charter, under the privy seal of Cardinal Wolseley, was,
 unwittingly, planted the seed of the fairest flower that ever bloomed in
@@ -583,19 +609,18 @@ Up to August, 1630, the business of the Massachusetts-Bay Company was
 transacted in London. But the business of the Massachusetts-Bay Colony
 may be said to have really begun in May, 1631.
 
-At “A Gen^rall Court holden att Boston, the 18th day of May, 1631. John
-Winthrop, Esq̃ was chosen Goun^r for a whole yeare nexte ensueinge by
-the gen^rall consent of the Court, according to the meaneing of the
-pattent, and did accordingly take an oathe to the place of Goun̄^r
-belonginge.”
+At "A Gen^rall Court holden att Boston, the 18th day of May, 1631. John
+Winthrop, Esq was chosen Goun^r for a whole yeare nexte ensueinge by the
+gen^rall consent of the Court, according to the meaneing of the pattent,
+and did accordingly take an oathe to the place of Goun^r belonginge."
 
-“Tho: Dudley, Esq̃, is also chosen Deputy Gouñ^r for this yeare nexte
+"Tho: Dudley, Esq, is also chosen Deputy Goun^r for this yeare nexte
 ensuing, & did in p^rsence of the Court take an oath to his place
-belonginge.” And “to the end the body of the com̄ons may be p^rserued of
+belonginge." And "to the end the body of the comons may be p^rserued of
 honest & good men, it was likewise ordered and agreed that for time to
 come noe man shalbe admitted to the freedome of this body polliticke,
 but such as are members of some of the churches within the lymitts of
-the same.”
+the same."
 
 The Law that all freemen must be church members, while assented to in
 Salem in 1631, was modified in 1632, probably for local reasons, that no
@@ -606,9 +631,9 @@ service the newly appointed Governor and the Deputy Governor elected to
 perform. The result of their labors, the original draft of the Oath of a
 Freeman, in the handwriting of the first and greatest of the Governors
 of the Commonwealth of Massachusetts, and the Oath of a Servant, in the
-handwriting of the second Governor—a document perhaps only surpassed in
+handwriting of the second Governor--a document perhaps only surpassed in
 historical interest and importance by, and worthy to rank with, the
-Declaration of Independence—is now, appropriately, in the possession of
+Declaration of Independence--is now, appropriately, in the possession of
 the Public Library of the City of Boston, and its preservation assured.
 
 Through the courtesy of the Trustees, this Society is permitted again to
@@ -621,63 +646,63 @@ _Bulletin_ of the Library for July, 1894.
 
           THE OATH OF A FREEMAN, OR OF A MAN TO BE MADE FFREE.
 
-  I, A. B. &c. being, by the Almighties most wise disposic̄on, become
-  a memb^r of this body, consisting of the Goūn^r, Deputy Goūn^r,
+  I, A. B. &c. being, by the Almighties most wise disposicon, become a
+  memb^r of this body, consisting of the Goun^r, Deputy Goun^r,
   Assistants, & a com^nlty of the Mattachusets in Newe England, doe,
   freely & sincerely acknowledge that I am iustly & lawfully subject
-  to the goūm^t of the same, & doe accordingly submitt my pson &
-  estate to be ptected, ordered, & goūned by the lawes &
-  constituc̄ons thereof, & doe faithfully pmise to be from time to
-  time obedient & conformeable therevnto, & to the authie of the said
-  Goūn^r & Assistants & their success^rs, & to all such lawes,
-  orders, sentences, & decrees as shalbe lawfully made & published by
-  them or their successors; and I will alwaies indeav^r (as in dutie I
-  am bound) to advance the peace & wellfaire of this bodie or
-  com̄onwealth to my vtmost skill & abilitie; & I will, to my best
-  power & meanes, seeke to devert & prevent whatsoeuer may tend to the
-  ruyne or damage thereof, or of any the said Goūn^r, Deputy Goūn^r,
-  or Assistants, or any of them, or their success^rs, and will giue
-  speedy notice to them, or some of them, of any sedic̄on, violence,
-  treachery, or other hurt or euill which I shall knowe, heare, or
-  vehem^tly suspecte to be plotted or intended against the said
-  com̄onwealth, or the said goum^t established; and I will not att any
-  time suffer or giue consent to any counsell or attempt that shalbe
-  offered giuen, or attempted for the impeachm^t of the said goūm^t,
-  or makeing any change or alterac̄on of the same, contrary to the
-  lawes & ordinances thereof, but shall doe my vtmost endeav^r to
-  discover, oppose, & hinder, all & eūy such counsell & attempts. Soe
-  helpe me God. [1631.]
+  to the goum^t of the same, & doe accordingly submitt my pson &
+  estate to be ptected, ordered, & gouned by the lawes & constitucons
+  thereof, & doe faithfully pmise to be from time to time obedient &
+  conformeable therevnto, & to the authie of the said Goun^r &
+  Assistants & their success^rs, & to all such lawes, orders,
+  sentences, & decrees as shalbe lawfully made & published by them or
+  their successors; and I will alwaies indeav^r (as in dutie I am
+  bound) to advance the peace & wellfaire of this bodie or comonwealth
+  to my vtmost skill & abilitie; & I will, to my best power & meanes,
+  seeke to devert & prevent whatsoeuer may tend to the ruyne or damage
+  thereof, or of any the said Goun^r, Deputy Goun^r, or Assistants, or
+  any of them, or their success^rs, and will giue speedy notice to
+  them, or some of them, of any sedicon, violence, treachery, or other
+  hurt or euill which I shall knowe, heare, or vehem^tly suspecte to
+  be plotted or intended against the said comonwealth, or the said
+  goum^t established; and I will not att any time suffer or giue
+  consent to any counsell or attempt that shalbe offered giuen, or
+  attempted for the impeachm^t of the said goum^t, or makeing any
+  change or alteracon of the same, contrary to the lawes & ordinances
+  thereof, but shall doe my vtmost endeav^r to discover, oppose, &
+  hinder, all & euy such counsell & attempts. Soe helpe me God.
+  [1631.]
 
 [Illustration:
 
-  Fac-simile of the Freemen’s Oath
+  Fac-simile of the Freemen's Oath
 
 
                            The oath of a serv^t.
 
   I. N. N. serv^t of &c. haveinge heard and vnderstoode that
-    our—soveraigne Lord Kinge Charles hath by his łres patents vnder
+    our--soveraigne Lord Kinge Charles hath by his lres patents vnder
     the great seale of England graunted power and aucthoryty vnto a
     Governo^r a Deputy Governo^r &. 18. Assistants to rule governe &
-    Judge all ꝑsones wch doe or shall inhabyte =in or=
+    Judge all psones wch doe or shall inhabyte =in or=
     betweene =the= Charles ryver &. 3. myles southward &
     merimack ryver &. 3. myles northwards in new England & soe
     westwards to the south sea, =beinge= wthin wch
-    =compa= lymitts I doe nowe—inhabyt
+    =compa= lymitts I doe nowe--inhabyt
 
   Doe promise =to be= at all tymes hereafter Dureinge my
     abode in America +to be+ obedyent to all lawes orders
     constitutions & comaunds wch by the =s b= said Governo^r
     Deputy Governo^r and assistants +for the tyme being+ or
-    the greater ꝑte of them shall be +lawfully+ made or
-    given—forth & shall come to my =k= heareinge, And to be
+    the greater pte of them shall be +lawfully+ made or
+    given--forth & shall come to my =k= heareinge, And to be
     true and faith full to them & their governemt, And I likewise
     promise that if I shall know +heare of =or heare of=
     or suspect+ =of= any hurt or losse intended against
     any of them I will reveale the same to one or more of them wth all
-    convenyent—speede, And to bind my selfe to the faithfull ꝑformance
-    of this promise, I sweare by the name of the onely true God the
-    lover of truth & the avenger of falshood]
+    convenyent--speede, And to bind my selfe to the faithfull
+    pformance of this promise, I sweare by the name of the onely true
+    God the lover of truth & the avenger of falshood]
 
 [Illustration:
 
@@ -686,30 +711,30 @@ _Bulletin_ of the Library for July, 1894.
   I. N. N. vt supra. and +=being=+ =having
     likewise heard and vnderstoode= said. N.N. =of=
     being now by the said Governo^r & assistants to be made a free man
-    of the said plantac̄on & +thereby enabled+ to have a
-    voice in the choise of the said. 20. Deputed ꝑsones soe
-    aucthorised as aforesaid as =the sai= any of their places
-    are or shalbe voide =and I shalbe therevnto called in a
-    lawfull assembly, doe hereby promise vt supra= I doe promise
-    that =when I s= at all tymes when I shalbe there vnto
-    lawfully called by the said Governem^t, to give my voice for the
-    electing of such ꝑsone =therevnto= & ꝑsones vnto such
-    voide places as I =the= shall =und= thinke to be
-    =the wisest godliest & ablest for the discharg= men of
-    wisedome & courage—feareinge God & hateing covetousnes all
-    ꝑtyalyty =& by= sett aside, and to bind &c vt supra.]
+    of the said plantacon & +thereby enabled+ to have a voice
+    in the choise of the said. 20. Deputed psones soe aucthorised as
+    aforesaid as =the sai= any of their places are or shalbe
+    voide =and I shalbe therevnto called in a lawfull assembly,
+    doe hereby promise vt supra= I doe promise that =when I
+    s= at all tymes when I shalbe there vnto lawfully called by
+    the said Governem^t, to give my voice for the electing of such
+    psone =therevnto= & psones vnto such voide places as I
+    =the= shall =und= thinke to be =the wisest
+    godliest & ablest for the discharg= men of wisedome &
+    courage--feareinge God & hateing covetousnes all ptyalyty =&
+    by= sett aside, and to bind &c vt supra.]
 
 [Illustration:
 
                            The Oath of ffreemen:
 
   I A: B: &c: =beinge= beinge by the Allmightyes most wise
-    despositiō become a member of this bodye consisting of the
-    Governor +Deputye+ Assistants & Com̄onalty of the
+    despositio become a member of this bodye consisting of the
+    Governor +Deputye+ Assistants & Comonalty of the
     Mattachusetts in n: e: doe freely & sincerely acknowledge that I
     am iustlye & lawfully subiect to the Goverment =there= of
     the same +=both Civill & Ecclesiasticall=+ & doe
-    accordingly submitt my ꝑson & estate to be protected ordered &
+    accordingly submitt my pson & estate to be protected ordered &
     governed by the Lawes & Constitutns therof: & doe faithfully
     promise to be from tyme to tyme obedient & conformable therevnto,
     & to the Authe of the sd Governor & Assistants & their successors,
@@ -723,48 +748,47 @@ _Bulletin_ of the Library for July, 1894.
     ruyne or damage thereof or of any the sd Governor Deputy Governor
     =&= +or+ Assistants or any of them or their
     successors: & will give spedye notice to them or some of them of
-    any =evill= seditiō, violence, treacherye or other hurt
+    any =evill= seditio, violence, treacherye or other hurt
     or evill, wch I shall knowe, heare, or vehemently suspecte to be
     =intended or= plotted or intended ag^t them =sd=
-    or ag^t the said =Goverment= Com: w: or the sd Goverm̄
+    or ag^t the said =Goverment= Com: w: or the sd Goverm
     established:
 
-  And I will not at any tyme suffer or give Consent to any
-    Counsell or Attempt that shalbe offered =or= given or
-    Attempted for the impeachment of the sd Goverment or makinge
-    any change or Alteratiō of the same, contrary to the Lawes &
-    =Customes= ordinances =of the same= thereof,
-    but shall doe my vtmost endeavo^r to discover & oppose & hīer
-    all & everye such Counsells]
+  And I will not at any tyme suffer or give Consent to any Counsell or
+    Attempt that shalbe offered =or= given or Attempted for
+    the impeachment of the sd Goverment or makinge any change or
+    Alteratio of the same, contrary to the Lawes & =Customes=
+    ordinances =of the same= thereof, but shall doe my vtmost
+    endeavo^r to discover & oppose & hier all & everye such Counsells]
 
                   *       *       *       *       *
 
   Att a Gen^rall Court, holden att Newe Towne [Cambridge]. March 4th,
   1634.
 
-  It is further ordered that eūy man of or above the age of sixteene
+  It is further ordered that euy man of or above the age of sixteene
   yeares, whoe hath bene, or shall hereafter be, resident within this
-  iurisdicc̄on by the space of sixe monethes, (as well servants as
+  iurisdiccon by the space of sixe monethes, (as well servants as
   others,) & not infranchized, shall take the oath of residents before
-  the Goūn^r, Deputy Goūn^r, or two of the nexte Assistants, whoe
+  the Goun^r, Deputy Goun^r, or two of the nexte Assistants, whoe
   shall haue power to convent him for that purpose, & vpon his
   refuseall, to binde him ouer to the nexte Court of Assistants, &
-  vpon his refuseall the second tyme, to be punished att the
-  discrec̄on of the Court.
+  vpon his refuseall the second tyme, to be punished att the discrecon
+  of the Court.
 
-  It is ordered that the ffreemens oath shalbe gyven to eūy man of or
-  above the age of 16 yeares, the clause for the elecc̄on of
+  It is ordered that the ffreemens oath shalbe gyven to euy man of or
+  above the age of 16 yeares, the clause for the eleccon of
   magistrates onely excepted.
 
                   *       *       *       *       *
 
   At A Court holden att Boston, Aprill 1th, 1634.
 
-  It was further ordered, that eūy man of or above the age of twenty
+  It was further ordered, that euy man of or above the age of twenty
   yeares, whoe hath bene or shall hereafter be resident within this
-  jurisdicc̄on by the space of sixe monethes, as an householder or
+  jurisdiccon by the space of sixe monethes, as an householder or
   soiorner, and not infranchised, shall take the oath herevnder
-  written, before the Goūn^r, or Deputy Goūn^r, or some two of the
+  written, before the Goun^r, or Deputy Goun^r, or some two of the
   nexte Assistants, whoe shall haue power to convent him for that
   purpose, and vpon his refuseall, to binde him ouer to the nexte
   Court of Assistants; and vpon his refuseall the second tyme, hee
@@ -775,25 +799,25 @@ _Bulletin_ of the Library for July, 1894.
                          THE OATH OF RESIDENTS
 
   I doe heare sweare, and call God to witnes, that, being nowe an
-  inhabitant within the lymitts of this juridicc̄on of the
+  inhabitant within the lymitts of this juridiccon of the
   Massachusetts, I doe acknowledge myselfe lawfully subject to the
   aucthoritie and gouerm^t there established, and doe accordingly
   submitt my pson, family, and estate, to be ptected, ordered, &
-  gouerned by the lawes & constituc̄ons thereof, and doe faithfully
+  gouerned by the lawes & constitucons thereof, and doe faithfully
   pmise to be from time to time obedient and conformeable therevnto,
-  and to the aucthoritie of the Goūn^r, and all other the Magistrates
+  and to the aucthoritie of the Goun^r, and all other the Magistrates
   there, and their success^rs, and to all such lawes, orders,
   sentences, & decrees, as nowe are or hereafter shalbe lawfully made,
   decreed, & published by them or their success^rs. And I will alwayes
   indeav^r (as in duty I am bound) to advance the peace & wellfaire of
   this body pollitique, and I will (to my best power & meanes) seeke
   to devert & prevent whatsoeuer may tende to the ruine or damage
-  thereof, or of y^e Goūn^r, Deputy Goūn^r, or Assistants, or any of
+  thereof, or of y^e Goun^r, Deputy Goun^r, or Assistants, or any of
   them or their success^{rs}, and will giue speedy notice to them, or
-  some of them, of any sedic̄on, violence, treacherie, or oth^r hurte
+  some of them, of any sedicon, violence, treacherie, or oth^r hurte
   or euill w^{ch} I shall knowe, heare, or vehemently suspect to be
   plotted or intended against them or any of them, or against the said
-  Com̄on-wealth or goum^t established. Soe helpe mee God. [1634.]
+  Comon-wealth or goum^t established. Soe helpe mee God. [1634.]
 
                   *       *       *       *       *
 
@@ -809,26 +833,26 @@ _Bulletin_ of the Library for July, 1894.
                          THE OATH OF A FREEMAN
 
   I, A. B., being, by Gods providence, an inhabitant & ffreeman within
-  the jurisdicc̄on of this com̄onweale, doe freely acknowledge my
-  selfe to be subiect to the goverm^t thereof, & therefore doe heere
-  sweare, by the greate & dreadfull name of the euerlyveing God, that
-  I wilbe true & faithfull to the same, & will accordingly yeilde
-  assistance & support therevnto, with my pson & estate, as in equity
-  I am bound, & will also truely indeav^r to mainetaine & preserue all
-  the libertyes & previlidges thereof, submitting my selfe to the
-  wholesome lawes & orders made & established by the same; and
-  furth^r, that I will not plott nor practise any evill against it,
-  nor consent to any that shall soe doe, but will timely discover &
-  reveale the same to lawfull aucthority nowe here established, for
-  the speedy preventing thereof. Moreouer, I doe solemnely binde
-  myselfe, in the sight of God, that when I shalbe called to giue my
-  voice touching any such matter of this state, wherein ffreemen are
-  to deale I will giue my vote & suffrage, as I shall iudge in myne
-  owne conscience may best conduce & tend to the publique weale of the
-  body, without respect of psons, or fav^r of any man. Soe helpe mee
-  God in the Lord Jesus Christ. [1634.]
+  the jurisdiccon of this comonweale, doe freely acknowledge my selfe
+  to be subiect to the goverm^t thereof, & therefore doe heere sweare,
+  by the greate & dreadfull name of the euerlyveing God, that I wilbe
+  true & faithfull to the same, & will accordingly yeilde assistance &
+  support therevnto, with my pson & estate, as in equity I am bound, &
+  will also truely indeav^r to mainetaine & preserue all the libertyes
+  & previlidges thereof, submitting my selfe to the wholesome lawes &
+  orders made & established by the same; and furth^r, that I will not
+  plott nor practise any evill against it, nor consent to any that
+  shall soe doe, but will timely discover & reveale the same to
+  lawfull aucthority nowe here established, for the speedy preventing
+  thereof. Moreouer, I doe solemnely binde myselfe, in the sight of
+  God, that when I shalbe called to giue my voice touching any such
+  matter of this state, wherein ffreemen are to deale I will giue my
+  vote & suffrage, as I shall iudge in myne owne conscience may best
+  conduce & tend to the publique weale of the body, without respect of
+  psons, or fav^r of any man. Soe helpe mee God in the Lord Jesus
+  Christ. [1634.]
 
-  Further, it is agreed that none but the Gen̄ all Court hath power to
+  Further, it is agreed that none but the Gen all Court hath power to
   chuse and admitt freemen.
 
 [Illustration:
@@ -867,20 +891,20 @@ regular order to the end of the first volume of the Records at page 354.
   suffrage as _I_ shall judge in mine own conscience may best conduce
   and tend to the publike weal of the body, without respect of
   persons, or favour of any man. So help me God in the Lord Jesus
-  Christ. [1634.] From the copy given in John Childe’s “New-Englands
-  Jonas cast up at London.” (London, 1647), which the preface states
+  Christ. [1634.] From the copy given in John Childe's "New-Englands
+  Jonas cast up at London." (London, 1647), which the preface states
   was printed in Massachusetts-Bay, by itself.
 
 To this form of The Oath of a Free man attaches the great additional
 interest of being the first work printed in the United States of
 America.
 
-Under date of Mo. 1. (March, 1638/9) John Winthrop’s Journal states: “A
+Under date of Mo. 1. (March, 1638/9) John Winthrop's Journal states: "A
 printing house was begun at Cambridge by one Daye, at the charge of Mr.
 Glover, who died on sea hitherward. The first thing which was printed
-was the freemen’s oath; the next was an almanac made for New England by
+was the freemen's oath; the next was an almanac made for New England by
 Mr. William Peirce, mariner; the next was the Psalms newly turned into
-metre.”
+metre."
 
 For nearly three hundred years no copy of this printed paper has been
 known to be extant. The ceaseless search for a copy in this country by
@@ -897,22 +921,22 @@ Declaration of Independence, had been discovered at this late day.
 
 Fully a quarter of a century ago, while engaged in making a search for
 early printed American publications in the Catalogue of printed books in
-the British Museum—a great and monumental work, worthy in its scholarly
+the British Museum--a great and monumental work, worthy in its scholarly
 completeness of the Government which fostered its publication, and of
-inestimable importance and benefit to scholars in every land—the
-following entry under the heading “Freeman” seemed to me to warrant more
+inestimable importance and benefit to scholars in every land--the
+following entry under the heading "Freeman" seemed to me to warrant more
 than passing observation and curiosity which the intervening years have
 failed to satisfy:
 
-                     —The Oath of a Freeman. B. L.
-          [_London_, 1645?] _s. sh._ 12º. 11,626. aa. (1, 2.)
+                     --The Oath of a Freeman. B. L.
+          [_London_, 1645?] _s. sh._ 12vo. 11,626. aa. (1, 2.)
 
 An analysis of this entry seems to show points of resemblance following
 closely the known facts regarding the first work printed in this
 country.
 
 The title is the one given by John Childe presumably from the earliest
-printed copy in his possession. The abbreviated title, freemen’s oath,
+printed copy in his possession. The abbreviated title, freemen's oath,
 as given by John Winthrop, first appearing in the Code of 1648, which
 seems to justify the belief that Winthrop wrote his Journal some years
 after the press was established.
@@ -923,12 +947,12 @@ purchased for the first press by Joseph Glover, there is an itemized
 statement of the number and names of the fonts of type for the second
 press sent over later by the Society for Propagating the Gospel among
 the Indians in New England, for printing the Bible in the Indian
-language, and among them is a small font of “blacks,” i.e. black-letter,
+language, and among them is a small font of "blacks," i.e. black-letter,
 which would indicate that a small font of that letter was generally
 considered a part of the equipment of a printing-office of the period.
 Even if this was not so, on the good authority of Isaiah Thomas, the
-type used in printing the Bay Psalm Book, of 1640, was “small bodied
-English,” a type commonly used for works in quarto and folio, which
+type used in printing the Bay Psalm Book, of 1640, was "small bodied
+English," a type commonly used for works in quarto and folio, which
 approximates in size to black-letter, but without the ceriphs, or fine
 projecting points of that letter. It is not unreasonable to suppose that
 a cataloguer might, hastily, consider the thickly inked, heavy
@@ -944,7 +968,7 @@ queries, is a close one; but is open to the criticism that an Oath of a
 Freeman could never have been printed or exacted in England during the
 reign of Charles the First. Ten years later, under Cromwellian rule, it
 might have been done. But the only place on earth it could have been
-printed and exacted without imprisonment, in 1645, was in the freemen’s
+printed and exacted without imprisonment, in 1645, was in the freemen's
 Colony of Massachusetts-Bay.
 
 In this connection it may be well to observe, as a further illustration
@@ -955,24 +979,24 @@ Winthrop, if the almanac was calculated for the year beginning in March,
 1639, it would suppose its printing sometime before the 25th of March,
 or in the Julian year 1638. This would leave nearly a whole year during
 which no other printing was done. If the almanac was calculated for the
-year beginning in March, 1640—the year the Bay Psalm Book is dated—then
-it would suppose the Oath, and the Almanac, printed in the eleventh or
-twelfth months of the Julian year 1639, which is more probable. Isaiah
-Thomas, writing in 1810, leaves this question in doubt by not stating
-whether his January, 1639, refers to the Julian, or the Gregorian
-Calendar.
+year beginning in March, 1640--the year the Bay Psalm Book is
+dated--then it would suppose the Oath, and the Almanac, printed in the
+eleventh or twelfth months of the Julian year 1639, which is more
+probable. Isaiah Thomas, writing in 1810, leaves this question in doubt
+by not stating whether his January, 1639, refers to the Julian, or the
+Gregorian Calendar.
 
 To continue our analysis: The format, and size, agrees with the known
-facts that the Oath was printed “on the face of a half sheet of small
-paper.” The shelf-mark indicates the permanent place on the shelves of
+facts that the Oath was printed "on the face of a half sheet of small
+paper." The shelf-mark indicates the permanent place on the shelves of
 the Library.
 
 The singular appearance of the only known copy of this important and
 interesting document in the Colonial history of New England, nearly
 three hundred years after its printing, so far from its place of
 publication, calls for explanation, which is apparently furnished in a
-work published in London, in April, 1647, entitled: “New-Englands Jonas
-cast up at London.” On the title-page it purports to be written by Major
+work published in London, in April, 1647, entitled: "New-Englands Jonas
+cast up at London." On the title-page it purports to be written by Major
 John Childe, a brother of Doctor Robert Childe, of Hingham, who was
 detained by order of the General Court of Massachusetts-Bay; but
 according to William Hubbard, in his History, and affirmed by John
@@ -1009,8 +1033,8 @@ to the departure of the vessel which was carrying back to England some
 of the dissatisfied signers of a Petition to the General Court, who
 rumor gave were taking with them this and other incriminating documents
 against the Government of the Colony. The learned preacher took for his
-text, Canticles, II: 15. “Take us the foxes, the little foxes, which
-destroy the vines,” and made pointed allusions to the current rumors,
+text, Canticles, II: 15. "Take us the foxes, the little foxes, which
+destroy the vines," and made pointed allusions to the current rumors,
 and the punishment which their acts would receive in a stormy voyage,
 and how it could be averted. But later we shall let Vassall tell the
 story in his own words. The effect upon his hearers was so great that
@@ -1030,14 +1054,14 @@ that the Relation is made up of the following particulars:
   Freemans Oath, _as they are printed there by themselves_.
 
 The italics are mine. Here, then, we have direct proof confirming the
-statement of John Winthrop that the Freeman’s Oath was printed at
+statement of John Winthrop that the Freeman's Oath was printed at
 Cambridge in 1639, and, in the body of the work, is given the full text
 of The Oath of a Free man as printed. It is probable that only the
 number of copies necessary for officials authorized to administer the
 Oath were printed, and the copy taken to England was surreptitiously
 obtained from some member of the Government. Its importance lay in the
 fact that it afforded printed evidence that nowhere in it is any
-reference made to the King’s Majesty, or of allegiance to any power on
+reference made to the King's Majesty, or of allegiance to any power on
 earth save that of their own Government as constituted.
 
 [Illustration:
@@ -1053,14 +1077,14 @@ same restriction, as to number; and, as printed evidence, open to the
 same construction as the Oath. Whatever the purpose, however, it had
 been forestalled some four years earlier when the Capital Laws were
 re-printed in London in a folio broadside. The copy in the British
-Museum bears the Colophon: “Printed first in New-England, and re-printed
-in London for Ben. Allen in Popes-Head Allen [_sic_] 1643.”
+Museum bears the Colophon: "Printed first in New-England, and re-printed
+in London for Ben. Allen in Popes-Head Allen [_sic_] 1643."
 
   Fourthly, a relation of that story of Jonas verbatim as it was
   delivered to me in writing by a Gentleman that was then a passenger
   in the ship.
 
-  “When the first ship that came this year 1646 from New-England, was
+  "When the first ship that came this year 1646 from New-England, was
   almost ready to come from thence; Mr. Cotton in his Thursday-Lecture
   at Boston, preached out of that Scripture, Cant. 2, 15. Take us the
   little Foxes, &c. In his uses took occasion to say, That if any
@@ -1071,7 +1095,7 @@ in London for Ben. Allen in Popes-Head Allen [_sic_] 1643.”
   he) I do not advise you to throw the persons over-board, but the
   Writings; or words to that effect. Whereupon, having great storms
   (as could not be otherwise expected) some of the Passengers
-  remembering Mr. Cotton’s Sermon, it seems were much affected with
+  remembering Mr. Cotton's Sermon, it seems were much affected with
   what he had said; and a woman amongst them came up from between the
   decks about Midnight, or after, in a distracted passionate manner to
   Mr. William Vassall who lay in the great Cabin, but for the present
@@ -1106,7 +1130,7 @@ in London for Ben. Allen in Popes-Head Allen [_sic_] 1643.”
   thrown over-board, and other writings of that nature, some of which
   are printed in this book, and were as well saved as their lives and
   other goods, and are here in London to be seen and made use of in
-  convenient time.”
+  convenient time."
 
 It is true that at any time in the intervening years of a quarter of a
 century I could have written to the British Museum authorities and been
@@ -1122,7 +1146,7 @@ search for a rare book is rewarded. Then it is that you seem to enter
 into the holy of holies of delight, when the whole body thrills with
 suppressed emotions, the eyes moisten, and the trembling hand stretched
 out to take the volume does so with a touch which is almost a caress.
-The feeling, I think, must be somewhat akin to the “buck fever” of the
+The feeling, I think, must be somewhat akin to the "buck fever" of the
 deer hunter, whose mind and shaking limbs refuse to function, as he
 looks into the luminous eyes, and notes the startled look, and graceful
 beauty of his prey, until it has bounded into safety in the forest. Why,
@@ -1132,7 +1156,7 @@ emotions which were mine by right of discovery.
 The opportunity of voyaging to England, which I had so long looked
 forward to, did not come to me until the Spring of the present year, and
 the pleasant anticipations with which I set out were comparable in my
-own mind with those which must have animated the Knights of Arthur’s
+own mind with those which must have animated the Knights of Arthur's
 Round Table in their quest for the holy grail. The morning after my
 arrival in London found me an early visitor at the British Museum. The
 preliminaries of admittance to the Reading-Room are not difficult, and
@@ -1155,12 +1179,12 @@ In time the white slips of my wants came fluttering back to me by
 messengers, all marked, very properly for security on account of rarity,
 that they could only be consulted in the North Library, until all were
 in but the one most desired. Then followed a much longer wait and
-then—the slip was handed back to me with a notation that I had given a
+then--the slip was handed back to me with a notation that I had given a
 wrong shelf-mark! Gone in an instant were all the perfectly pure and
 chaste thoughts with which I had been regaling myself while I was
 apparently looking at the wrong button on my vest. I think I could have
 stood the blow better if it had been that hoary old fiction of careless
-assistants that it was “out”, but this is a boon denied to any assistant
+assistants that it was "out", but this is a boon denied to any assistant
 in the British Museum, where nothing is allowed to go out. A comparison
 with the printed Catalogue showed an exact correspondence, and I sought
 the Superintendent of the Reading-Room, who assured me that the matter
@@ -1168,16 +1192,16 @@ would have his personal attention; and for the rest of the day I busied
 myself with my other wants in the North Library without any word of the
 missing broadside reaching me. That evening, in communion with myself, I
 determined to throw off the mask of secrecy and frankly confide the
-importance of my quest to the Keeper of the Printed Books—the somewhat
+importance of my quest to the Keeper of the Printed Books--the somewhat
 expressive and imposing title of the Librarian of the British Museum.
 
-Before calling upon him I sought as an introducer Henry N. Stevens—the
+Before calling upon him I sought as an introducer Henry N. Stevens--the
 worthy son of an illustrious father who follows closely in his footsteps
-as the best authority on early printed American books in Europe—at his
+as the best authority on early printed American books in Europe--at his
 shop across the street from the imposing Museum building, and to him I
 told my story. As I proceeded his interest grew, and before I had
 finished he excitedly grasped my arm with one hand and his hat with the
-other, exclaiming: “Come with me. This is not a subject for underlings,”
+other, exclaiming: "Come with me. This is not a subject for underlings,"
 and rushed me across the street without pause until we were in the
 sanctum sanctorum of the learned and accomplished Keeper, Alfred W.
 Pollard. And to him I told my simple tale, and asked his assistance. Mr.
@@ -1198,36 +1222,36 @@ the letter F of the Catalogue was completed in 1888, and since that time
 an expansion of the classification of books upon the shelves had been
 made, from which dated its disappearance. He would not, however,
 discontinue his efforts to find it. After apologizing for giving him a
-“bad half-hour,” which only the importance of the broadside excused, our
+"bad half-hour," which only the importance of the broadside excused, our
 second interview ended. On my last day in London, I went again with Mr.
 Stevens to call on Mr. Pollard about the matter, and told him that I had
 made my arrangements to fly from London to Paris on the morrow, and
 asked him if these old eyes of mine were never to behold the holy grail.
-“In black-letter?” he queried, touching the weak spot in my armor. “In
-duodecimo!” I countered, pointing to the rent in his own. And the third
+"In black-letter?" he queried, touching the weak spot in my armor. "In
+duodecimo!" I countered, pointing to the rent in his own. And the third
 interview ended with his assurance that the search would go on until the
 missing broadside was found.
 
 And there the matter rests, very much in the condition of the story of
-the cook who asked the skipper: “Is any thing lost when you know where
-it is?” And to the skipper’s gruff response, “Of course not,” he
-pleasantly replied: “I am glad to know that our only iron soup kettle
-wasn’t lost when it fell over-board into the Bay.”
+the cook who asked the skipper: "Is any thing lost when you know where
+it is?" And to the skipper's gruff response, "Of course not," he
+pleasantly replied: "I am glad to know that our only iron soup kettle
+wasn't lost when it fell over-board into the Bay."
 
 Through the courtesy of our fellow-members, Henry Edwards Huntington,
 Esquire, and the accomplished bibliographer and librarian of his
 unrivaled collection of books and art, George Watson Cole, the Society
-is permitted to give a reproduction from the only known copy of “The
+is permitted to give a reproduction from the only known copy of "The
 Book of General Lawes and Libertyes concerning the Inhabitants of the
-Massachusetts”—the long-lost Code of 1648. No copy or fragment of a copy
-was known to be extant for over two hundred and fifty years, when, in
-1906, this copy was discovered in a small private library in England,
+Massachusetts"--the long-lost Code of 1648. No copy or fragment of a
+copy was known to be extant for over two hundred and fifty years, when,
+in 1906, this copy was discovered in a small private library in England,
 and was sold to the late Edmund Dwight Church for the highest price ever
-paid for an American printed book—a record which is not likely to be
+paid for an American printed book--a record which is not likely to be
 surpassed. The almost miraculous recovery of this volume, will, I have
 given my reasons to hope, sometime have a counterpart in the recovery of
 the only known copy of the first work printed in the United States of
-America—The Oath of a Free man. From the year 1641, this bore the
+America--The Oath of a Free man. From the year 1641, this bore the
 abbreviated title of the
 
 
@@ -1294,10 +1318,10 @@ abbreviated title of the
 
 [Illustration:
 
-  FREEMAN’S OATH
+  FREEMAN'S OATH
 
-  Reproduced from “The Book of General Lawes and Libertyes concerning
-    the Inhabitants of the Massachusetts”-–1648
+  Reproduced from "The Book of General Lawes and Libertyes concerning
+    the Inhabitants of the Massachusetts"--1648
 
   By the courtesy of Henry Edwards Huntington]
 
@@ -1418,7 +1442,7 @@ orders by the General Court, in October, 1656, and May, 1658.
 
 This was construed as being directed against the members of the Church
 of England, and was largely responsible for the strained relations with
-his Majesty’s Commission in 1665. It was repealed before the 1672
+his Majesty's Commission in 1665. It was repealed before the 1672
 Revision of the Laws.
 
 For causes already mentioned the publication of the first Code of Laws,
@@ -1439,7 +1463,7 @@ authority for all expressions of the supremacy of the Commonwealth; a
 recognition of the Church of England; and a repeal of the long-standing
 limitation of citizenship to church members. To one or two of their
 points the General Court gave consent. A comparison with the Code of
-1672, shows that while the recognition of his majesty’s supremacy was
+1672, shows that while the recognition of his majesty's supremacy was
 allowed, in a score of instances the powers of the government under
 their Charter were asserted. The right of strangers to become citizens
 was nominally conceded, but on conditions which afforded only a minimum
@@ -1486,14 +1510,14 @@ of relief to members of the Church of England.
                   *       *       *       *       *
 
   And, at the May, 1665, session, to conform to the criticism of his
-  Majesty’s Commission concerning the Oath of Allegiance:
+  Majesty's Commission concerning the Oath of Allegiance:
 
   It is ordered by this Court, & the authority thereof, that the
   following oath be annexed vnto the oathes of euery freeman & oath of
   fidellity, & to the Gouerno^r, Dep^{t-}Gouerno^r, & Assistants, & to
-  all other publicke officers, as followeth:—
+  all other publicke officers, as followeth:--
 
-  The oath of a freeman & fidelity to runne thus:—
+  The oath of a freeman & fidelity to runne thus:--
 
 
                            OATH OF FIDELITIE
@@ -1548,8 +1572,8 @@ of relief to members of the Church of England.
 
                   *       *       *       *       *
 
-  The oath of the Goūno^r, Dept Goūno^r, & other publicke officers,
-  to runne thus:—
+  The oath of the Gouno^r, Dept Gouno^r, & other publicke officers, to
+  runne thus:--
 
   Whereas I, A. B., am chosen Gouerno^r, &c., considering how I stand
   obliged to the kings majesty, his heires & successors, by our
@@ -1557,10 +1581,10 @@ of relief to members of the Church of England.
   as aboue. [1665.]
 
 In their demand for changes in the 1660 Book of the General Laws and
-Liberties, the Commissioners in their 14th section proposed: “That, page
-33, ‘none be admitted freemen but such as are members of some of the
-churches w^{th} in the limitts of this jurisdiction’ may be explained, &
-comp̄hend such as are members of y^e church of England.”
+Liberties, the Commissioners in their 14th section proposed: "That, page
+33, 'none be admitted freemen but such as are members of some of the
+churches w^{th} in the limitts of this jurisdiction' may be explained, &
+comphend such as are members of y^e church of England."
 
   At the General Court of 23 May, 1666.
 
@@ -1579,7 +1603,7 @@ comp̄hend such as are members of y^e church of England.”
   As an addition to the Law, title Freemen, section the third, it is
   ordered by this Court and the authority thereof that henceforth the
   names of such as desire to be admitted to the freedome of this
-  Com̄on-wealth, not being members of churches in full comunion, shall
+  Comon-wealth, not being members of churches in full comunion, shall
   be entred w^{th} the secretary, from tjme to tjme, at the Court of
   election, and read ouer before the whole Court sometime that
   sessions and shall not be put to vote in the Court till the Court of
@@ -1636,7 +1660,7 @@ comp̄hend such as are members of y^e church of England.”
 
                   *       *       *       *       *
 
-  Att the second sessions of the Gen̄ll Court held at Boston, 2
+  Att the second sessions of the Genll Court held at Boston, 2
   October, 1678.
 
   _Whereas it hath pleased his most excellent Majesty, our gracious
@@ -1683,26 +1707,27 @@ comp̄hend such as are members of y^e church of England.”
 
 The officials of the Government, ignoring the copy of the Oath of
 Allegiance given them by the royal commissioners, took the Oath in Court
-as it is given in Michael Dalton’s “The Countrey Justice,”—a work of
+as it is given in Michael Dalton's "The Countrey Justice,"--a work of
 much esteem in its time, which passed through some ten or eleven
 editions, three of which are in the valuable Library of this Society,
 and one of them, there is reason to believe, may have been the volume
-used in this historical incident,—all of them declaring that the same is
-to be understood as not infringing the liberties and privileges granted
-in his Majesty’s royal Charter to this Colony of the Massachusetts.
+used in this historical incident,--all of them declaring that the same
+is to be understood as not infringing the liberties and privileges
+granted in his Majesty's royal Charter to this Colony of the
+Massachusetts.
 
 Regarding the manner of taking the Oath; the New England custom was by
 holding up the right hand, as opposed to the custom in England of
 holding, or laying the hand on the Bible, or kissing it. This was one of
 the irritating questions in dispute between the Colonists and the Andros
 faction. Samuel Sewall, in his Diary, under date of June 11, 1686, says:
-“I read the Oath myself holding the book in my left hand, and holding up
-my right hand to Heaven.” And, in 1687, Increase Mather discoursed on
-the “laying the hand on and kissing the booke in swearing.” This
+"I read the Oath myself holding the book in my left hand, and holding up
+my right hand to Heaven." And, in 1687, Increase Mather discoursed on
+the "laying the hand on and kissing the booke in swearing." This
 question continued to irritate, and was one of the predisposing causes
 of the Revolutionary War in the Province of New York. In 1772, a Bill
-was lost in Council, “For Removing Doubts in the administration of
-Oaths.” This Bill was designed to favor a number of people, chiefly from
+was lost in Council, "For Removing Doubts in the administration of
+Oaths." This Bill was designed to favor a number of people, chiefly from
 Scotland and the north of Ireland, who held conscientious scruples
 against the present legal form of kissing the Bible; and allow them to
 use the form in use in Scotland and the New England Colonies of lifting
@@ -1711,19 +1736,19 @@ right.
 
 In the colonization of New England the figure of John Winthrop looms
 colossal. Given time, he would have built an Empire whose only ruler
-would have been the Lord of Hosts. He can hardly be called a Puritan—his
-conversion came too late—but he was a Congregationalist. His method was
-so simple as to be open to the understanding of anyone, but it was a
-firm principle of government. As an illustration: when he was appealed
-to by a small group of settlers near the border line of New Hampshire
-for information as to how they could become freemen of the Colony of
-Massachusetts-Bay, his reply was: “Get a Minister.” When they answered
-that they had no Minister, and did not know where to get one, again came
-back his uncompromising reply: “Get a Minister.” In this reply rested
-his whole system of colonization. It was simplicity itself. The English
-Government recognized its power when, by Proclamation, they endeavored
-to prevent the emigration of Puritan Ministers from England. “Get a
-Minister!” Gather about him! Build him a church, and homes for
+would have been the Lord of Hosts. He can hardly be called a
+Puritan--his conversion came too late--but he was a Congregationalist.
+His method was so simple as to be open to the understanding of anyone,
+but it was a firm principle of government. As an illustration: when he
+was appealed to by a small group of settlers near the border line of New
+Hampshire for information as to how they could become freemen of the
+Colony of Massachusetts-Bay, his reply was: "Get a Minister." When they
+answered that they had no Minister, and did not know where to get one,
+again came back his uncompromising reply: "Get a Minister." In this
+reply rested his whole system of colonization. It was simplicity itself.
+The English Government recognized its power when, by Proclamation, they
+endeavored to prevent the emigration of Puritan Ministers from England.
+"Get a Minister!" Gather about him! Build him a church, and homes for
 yourselves and families. This done, you have a Plantation. When you have
 thus qualified to become freemen, and have taken the Oath of a Freeman,
 you will be entitled to hold office; assist in framing laws, and
@@ -1812,7 +1837,7 @@ with a certain estate, which qualified them to vote in town meetings.
   there should be an orderly and decent Gouerment established
   according to God, to order and dispose of the affayres of the people
   at all seasons as occation shall require: doe therefore assotiate
-  and conioyne our selues to be as one publike State or Com̄onwelth;
+  and conioyne our selues to be as one publike State or Comonwelth;
   and doe, for our selues and our Successors and such as shall be
   adioyned to vs att any tyme hereafter, enter into Combination and
   Confederation togather, to mayntayne and p^rsearue the liberty and
@@ -1827,7 +1852,7 @@ In Connecticut, it would appear that the Oath of Fidelity required of
 all that were admitted freemen up to July 1640, was as follows:
 
 
-             AN OATH FOR PAQUA’ AND THE PLANTATIONS THERE:
+             AN OATH FOR PAQUA' AND THE PLANTATIONS THERE:
 
 
   I A. B. being by the P^ruidence of God an inhabitant w^{th}in the
@@ -1844,7 +1869,7 @@ all that were admitted freemen up to July 1640, was as follows:
   promoteing the publike good thereof, whilst I shall so continue an
   Inhabitant there, and whensou^r I shall give my vote, suffrage or
   p^rxy, being cauled thereunto touching any matter w^{ch} conserns
-  this Com̄onwelth, I will giue y^t as in my conscience may conduce to
+  this Comonwelth, I will giue y^t as in my conscience may conduce to
   the best good of the same, w^{th}out respect of p^rson or favor of
   any man; So helpe me God in the Lo: Jesus Christ. [1640.]
 
@@ -1864,7 +1889,7 @@ all that were admitted freemen up to July 1640, was as follows:
   mayntayne the honner of the same and of the lawfull Magestratts
   thereof, p^rmoting the publike good of y^t, whilst I shall soe
   continue an inhabitant there; and whensoeu^r I shall giue my voate
-  or suffrage touching any matter w^{ch} conserns this Com̄on welth
+  or suffrage touching any matter w^{ch} conserns this Comon welth
   being cauled there unto, will give y^t as in my conscience I shall
   judge may conduce to the best good of the same, w^{th}out respect of
   p^rsons or favor of any man. Soe helpe me God in o^r Lord Jesus
@@ -1873,7 +1898,7 @@ all that were admitted freemen up to July 1640, was as follows:
                   *       *       *       *       *
 
   At a Generall Assembly held at Hartford, Aprill 20th, 1665, there
-  was presented to the Court the Propositions of his Majesty’s Royal
+  was presented to the Court the Propositions of his Majesty's Royal
   Commission which were read and answered as follows;
 
   1. That all householders inhabiting this Colony take the oath of
@@ -1917,7 +1942,7 @@ all that were admitted freemen up to July 1640, was as follows:
 
                   *       *       *       *       *
 
-  At a Gen^{ll} Assembly for election held at Hartford, May 11, ‘65.
+  At a Gen^{ll} Assembly for election held at Hartford, May 11, '65.
   This Court declare that it is their full sense and determination
   that such persons as are or hereafter shalbe approued to be freemen
   of this Corporation shal take y^e Oath that is already established
@@ -1927,7 +1952,7 @@ all that were admitted freemen up to July 1640, was as follows:
   of those that have bene formally incorporated into this civil
   society, vntil y^e said Oath be administred vnto them: Provided that
   this order includes not either freemen formerly admitted and sworne
-  or Assistants and Com̄issioners that haue taken their corporal oaths
+  or Assistants and Comissioners that haue taken their corporal oaths
   or Deputies that haue bene accepted into y^e Gen^{ll} Assembly to
   assist in ye concernments of this corporation. [1665.]
 
@@ -1937,13 +1962,13 @@ all that were admitted freemen up to July 1640, was as follows:
 _In New Haven Colony._
 
 
-“On the 4^{th} day of the 4^{th} month called June 1639, all the free
+"On the 4^{th} day of the 4^{th} month called June 1639, all the free
 planters of the town to be called a year later Newhaven, assembled
 together in a general meetinge to consult about settling ciuill
 Gouernm^t according to God. * * * Mr. John Davenport propounded divers
-(6) quæries to them publiquely praying them to consider seriously * * *
+(6) quaeries to them publiquely praying them to consider seriously * * *
 and to giue their answers in such sort as they would be willing they
-should stand upon recorde for posterity.”
+should stand upon recorde for posterity."
 
 These six fundamental agreements were assented to by the lifting up of
 hands twice: once at the proposal and again after when the written words
@@ -1953,7 +1978,7 @@ And on the 25th of October next, the following charge was given and
 accepted by them:
 
 
-                            FREEMAN’S CHARGE
+                            FREEMAN'S CHARGE
 
   Yow shall neither plott, practise, nor consent, to any euill, or
   hurt, against this Jurisdiction, or any part of it, nor against The
@@ -1980,22 +2005,22 @@ accepted by them:
   This day, a forme of an oath for the Governo^r and magistrats to
   take, and another forme of an oath to be imposed upon all the
   inhabitants w^thin this jurisdiction was propounded to the
-  consideratiō of the court, who, after some serious debate and
-  consideratiō rested satisfyed w^th the said formes. And therevpon
-  ordered thatt itt should be forthw^th putt in executiō, and whereas
+  consideratio of the court, who, after some serious debate and
+  consideratio rested satisfyed w^th the said formes. And therevpon
+  ordered thatt itt should be forthw^th putt in executio, and whereas
   the Governo^r doth shortly intend a journey to Stamforde on other
   occasions, the Court desired him to improve thatt opportunity, both
   at Stamforde and att Milford, for the giveing of the oath, and the
   like att Guilforde in time convenient. Itt was further ordered thatt
   no person or persons shall hereafter be admitted as an inhabitant in
-  this jurisdictiō or any of the plantations therein butt he or they
+  this jurisdictio or any of the plantations therein butt he or they
   shall take the said oath vpon his or their admittance.
 
                   *       *       *       *       *
 
   On the 23 of June, 1644, The formes of two oathes were propounded to
   the Court to be taken the next second day in the morning, by all the
-  inhabitants in this plantatiō, one of them is to be taken by all,
+  inhabitants in this plantatio, one of them is to be taken by all,
   and the other by the Governo^r onely.
 
                   *       *       *       *       *
@@ -2004,17 +2029,17 @@ accepted by them:
   Governo^r tooke this oath as followeth,
 
   I [Theophilus Eaton] being att a Gen^{rll} Co^{rt} in October last,
-  chosen Governo^r w^thin Newhaven Jurisdictiō for a yeare then to
+  chosen Governo^r w^thin Newhaven Jurisdictio for a yeare then to
   ensue, and vntill a new Governo^r be chosen, do sweare by the great
   and dreadfull name of the ever living God, to promove the publique
   good and peace of the same, according to the best of my skill, and
-  will allso maintaine all the lawfull priviledges of this
-  comōwealth, according to the fundamentall order and agreem^t made
-  for governm^t in this jurisdictiō, and in like manner will endeuo^r
-  thatt all wholsome lawes thatt are or shall be made by lawfull
-  authority here established be duely executed, and will further the
-  executiō of justice according to the righteous rules of Gods worde,
-  so help me God in o^r Lord Jesus Christ.
+  will allso maintaine all the lawfull priviledges of this comowealth,
+  according to the fundamentall order and agreem^t made for governm^t
+  in this jurisdictio, and in like manner will endeuo^r thatt all
+  wholsome lawes thatt are or shall be made by lawfull authority here
+  established be duely executed, and will further the executio of
+  justice according to the righteous rules of Gods worde, so help me
+  God in o^r Lord Jesus Christ.
 
                   *       *       *       *       *
 
@@ -2026,7 +2051,7 @@ accepted by them:
   as followeth,
 
   I [Theophilus Eaton] being by the providence of God an inhabitant
-  w^thim Newhaven Jurisdictiō, doe acknowledge myselfe to be subject
+  w^thim Newhaven Jurisdictio, doe acknowledge myselfe to be subject
   to the goverm^t thereof, and doe sweare by the great and dreadfull
   name of the ever living God, to be true and faithfull vnto the same,
   and doe submitt both my person and my whole estate thervnto
@@ -2040,8 +2065,8 @@ accepted by them:
   publique good of the same whilest I shall continue an inhabitant
   there. And whensoever I shall be duely called a free burgesse,
   according to the fundamentall order and agreem^t for governm^t in
-  this jurisdictiō to give my vote or suffrage touching any matter
-  w^ch concerneth this comō wealth, I will give itt as in my
+  this jurisdictio to give my vote or suffrage touching any matter
+  w^ch concerneth this como wealth, I will give itt as in my
   conscience I shall judge may conduce to the best good of the same
   w^thout respect of persons, So help me God in our Lord Jesus Christ.
 
@@ -2079,7 +2104,7 @@ _In Rhode Island and Providence Plantations._
 
 The settlement of Rhode Island by Roger Williams, being partly
 occasioned by his refusal to take either the Oath of Fidelity, or the
-Stranger’s Oath to the Colony of Massachusetts-Bay will account for the
+Stranger's Oath to the Colony of Massachusetts-Bay will account for the
 absence of all Oaths of Allegiance in the early history of the Colony
 which he founded. From the first settlement of the Colony of Rhode
 Island and Providence Plantations to the present time an Oath could not
@@ -2098,7 +2123,7 @@ qualification and an Affirmation.
   civil things. [Richard Scott, and twelve others.] August the 20th,
   [1637.]
 
-This limiting of the powers of town meetings to “civil things,” is the
+This limiting of the powers of town meetings to "civil things," is the
 first expression in the new world of a severance of the bonds of Church
 and State, and of that principle of freedom of conscience for which the
 founder had contended. This first Civil Compact was followed, on the 7th
@@ -2123,7 +2148,7 @@ day of the first month, 1638, by the settlers at Aquidneck, with a
   hereafter be ratifyed according unto God, the Lord helping us so to
   do.
 
-                                            William Aspinwall, Sec’ry.
+                                            William Aspinwall, Sec'ry.
 
   I, William Coddington, Esquire, being called and chosen by the
   Freemen Incorporate of this Bodie Politick, to be a Judge amongst
@@ -2207,7 +2232,7 @@ government.
   28. It is ordered and received, that the Ingagement that already was
   given by the Freemen was and is of the same force as that oath is
   which is authorized to be administered to the Inhabitants, which
-  oath Nicholas Easton, Rob’t Jeoffreys, and Wm. Dyre did take in
+  oath Nicholas Easton, Rob't Jeoffreys, and Wm. Dyre did take in
   presence of the Courte.
 
   29. It is ordered, that if any person or persons on the Island,
@@ -2223,7 +2248,7 @@ government.
                      THE ENGAGEMENT OF THE OFFICERS
 
   You, A. B. being called and chosen vnto public employment, and the
-  office of ——, by the free vote and consent y^e Inhabitants of the
+  office of ----, by the free vote and consent y^e Inhabitants of the
   Province of Providence Plantations (now orderly met), do, in the
   present Assemblie, engage yourself faithfully and truly to the
   utmost of your power to execute the commission committed vnto you;
@@ -2235,7 +2260,7 @@ government.
          THE RECIPROCAL ENGAGEMENT OF THE STATE TO Y^E OFFICERS
 
   We, the Inhabitants of the Province of Providence Plantations being
-  here orderly met, and having by free vote chosen you ——, to public
+  here orderly met, and having by free vote chosen you ----, to public
   office and officers for the due administration of Justice and the
   execution thereof throughout the whole Colonie, do hereby engage
   ourselves to the utmost of our power to support and vphold you in
@@ -2250,8 +2275,8 @@ government.
 
                   *       *       *       *       *
 
-  At the General Court of the 21st of May, 1661, the words: “in his
-  Majesties name” was added after (“now orderly met”).
+  At the General Court of the 21st of May, 1661, the words: "in his
+  Majesties name" was added after ("now orderly met").
 
                   *       *       *       *       *
 
@@ -2323,7 +2348,7 @@ complete concordance with the teachings of Roger Williams.
 
   Whereas, you are, A. B., by the free vote of the freemen of this
   Collony of Rhode Island and Providence Plantations, &c., called and
-  chosen vnto the place and office of ——, in the said Collony, &c.,
+  chosen vnto the place and office of ----, in the said Collony, &c.,
   doe sollemly engage true eleageance vnto his Majestye, his heires
   and successors, to beare, and in your said office equall justice and
   right to doe vnto all persones within this jurisdiction to the
@@ -2348,7 +2373,7 @@ complete concordance with the teachings of Roger Williams.
 
 The Commission appointed by the King to assert the rights of the Crown
 to the seven New England Colonies, as the first of the propositions of
-his Majesty’s will and pleasure in Rhode Island, proposed:
+his Majesty's will and pleasure in Rhode Island, proposed:
 
   That all householders inhabiting this Collony take the oath of
   alleagence and the administration of justice be in his Majestyes
@@ -2386,31 +2411,31 @@ his Majesty’s will and pleasure in Rhode Island, proposed:
   Collony in the Charter; which said engagement you make vnder the
   perill and penalty of perjury. [1665.]
 
-They further ordered that “this engagement shall be administered to all
+They further ordered that "this engagement shall be administered to all
 that are already admitted freemen, and that no man shall be admitted a
 freeman, and all men that are householders or aged eighteen or more,
 shall take the engagement or loose the priviledge of freemen until they
-give the engagement premised.” The passage of this law led to a long
+give the engagement premised." The passage of this law led to a long
 agitation by those who thought it to be hard on the consciences by many
 whom it rendered incapable from carrying on the affairs of the
 corporation. And, in the following year, the Assembly ordered and
-declared, “That such as are free in their conscience so to do, give the
+declared, "That such as are free in their conscience so to do, give the
 Engagement, or if they rather choose to give the oath of allegiance now
 required in England, that shall be taken; but if there are some words in
 either which, in conscience they cannot condescend to say or use, may in
 open court, or before two Magistrates adopt in equivalent words
 significant of allegiance and submission to yield obedience actively and
-passively, to the laws made by virtue of his Majesty’s authority, he
+passively, to the laws made by virtue of his Majesty's authority, he
 shall be restored or admitted as freeman, any former law to the contrary
-notwithstanding.”
+notwithstanding."
 
-  At a Court held in his Majesty’s name, and under his authority, at
-  the towne of Westerly, in the King’s Province, the 17th of
+  At a Court held in his Majesty's name, and under his authority, at
+  the towne of Westerly, in the King's Province, the 17th of
   September, 1679.
 
   The inhabitants of Westerly, being by warrant required to appeare at
   this Court to give the oath of allegiance to his Majesty, and of
-  fidellity to his Majesty’s authority for this Collony, these persons
+  fidellity to his Majesty's authority for this Collony, these persons
   hereunder named appeared and gave oath, viz. [Thirty-three names.]
 
   The oath given by the above written persons was in these followinge
@@ -2422,14 +2447,14 @@ notwithstanding.”
   and of all other his dominions and countries; and that the Pope,
   neither of himselfe, nor by any authority of the Church, or See of
   Rome, or by any other meanes with any other, hath any power or
-  authority to depose the King, or to dispose of his Majesty’s
+  authority to depose the King, or to dispose of his Majesty's
   kingdoms or dominions, or to authorize any forreigne prince to
   invade, or annoy him, or his country, or to discharge any of his
   subjects from their allegiance and obedience to his Majesty; or to
   give license or leave to any of them to beare armes, raise tumults,
-  or offer any violence or hurt to his Majesty’s Royall person, State
-  or Government, or to any of his Majesty’s subjects within his
-  Majesty’s dominions. Alsoe I doe sweare from my heart, that
+  or offer any violence or hurt to his Majesty's Royall person, State
+  or Government, or to any of his Majesty's subjects within his
+  Majesty's dominions. Alsoe I doe sweare from my heart, that
   notwithstanding any declaration or sentence of ex-communication, or
   deprivation, made or granted, or to be made or granted by the Pope
   or his successors, or by any authority derived or pretended to be
@@ -2457,9 +2482,9 @@ notwithstanding.”
   spoken, according to the plaine and common sense and understandinge
   of the same words, without any equivocation or mentall evasion or
   secrett reservation whatsoever. And further, I doe here solemnly
-  engage all true and loyall obedience unto his Majesty’s authority
+  engage all true and loyall obedience unto his Majesty's authority
   placed and established in this his Collony of Rhode Island and
-  Providence Plantations, and King’s Province. And I doe make this
+  Providence Plantations, and King's Province. And I doe make this
   recognition heartily, willingly, and truly, upon the true faith of a
   Christian. So help me God. [1679.]
 
@@ -2528,7 +2553,7 @@ with the following explanatory preamble:
   Church of Exeter, with the rest of the Inhabitants, bearing date
   Mon. 5th. d. 4, 1639, wh afterwards, upon the instant request of
   some of the brethren, was altered, & put into such a forme of
-  wordes, wherein howsoever we doe acknowledge the King’s Majesty our
+  wordes, wherein howsoever we doe acknowledge the King's Majesty our
   dread Sovereigne & ourselves his subjects: yet some expressions are
   contained therein wh may seeme to admit of such a sence as somewhat
   derogates from that due Allegiance wh we owe to his Highnesse, quite
@@ -2549,7 +2574,7 @@ oaths, as follows:
   maker & Gov^r of heaven and earth, and by the Lord Jesus Christ y^e
   Prince of the Kings and Rulers of the earth that in his name and
   feare you will Rule and Governe this people according to the
-  righteous will of God’s Ministeringe Justice and Judgm^t upon the
+  righteous will of God's Ministeringe Justice and Judgm^t upon the
   workers of iniquity and Ministering due incurreagm^t and Countenance
   to well doers protecting of people so farre as in you by the helpe
   of God lyeth from forren Annoyance and inward disturbance that they
@@ -2642,15 +2667,15 @@ _In Province or County of Maine._
 
 
 The Colonization of what is called in the Charter granted by Charles the
-First to Sir Ferdinando Gorges in 1639, “The Province or Countie of
-Mayne,” presented many difficulties. The extraordinary governmental
+First to Sir Ferdinando Gorges in 1639, "The Province or Countie of
+Mayne," presented many difficulties. The extraordinary governmental
 powers given to the Lord-Proprietary, which were transmissible with the
 property to his heirs and assigns, made of it a vast landed estate in
 which there could not be much voluntary co-operation. To assist in its
 government a board of Councilors was appointed who before taking office
-were required to “take the Oath of Allegiance according to the forme now
-used in this his highness’ realme of England, and shall alsoe take the
-Oath hereunto subscribed.”
+were required to "take the Oath of Allegiance according to the forme now
+used in this his highness' realme of England, and shall alsoe take the
+Oath hereunto subscribed."
 
 
                 OATH OF COUNCILORS OF PROVINCE OF MAYNE
@@ -2684,14 +2709,14 @@ that year, from actual survey, the east line of the Massachusetts-Bay
 Colony was found to encroach upon the liberties of the trade sold by and
 to the New Plymouth officers; and, in 1653, Thomas Prence was authorized
 to summon all and every inhabitant of the Kennebeck country to assemble
-and receive from him the instructions of the Plymouth General Court: “1.
+and receive from him the instructions of the Plymouth General Court: "1.
 That the people should take the Oath of fidelity to the State of
 England, and to the government of New Plymouth. 2. That they were to be
 made acquainted with the Colony laws, applicable to them, and establish
 suitable rules and regulations to guide and govern them in their civil
 affairs. 3. None were to be inhabitants there but such as should take
 the Oath of Allegiance. 4. None could vote for an Assistant but such as
-should take the Oath.”
+should take the Oath."
 
 The Oath required was in these words:
 
@@ -2726,8 +2751,8 @@ Maine became a District of Massachusetts down to the year 1820.
                   *       *       *       *       *
 
 The power of an Oath is a subject for the Casuist. But, in the brief
-period of this paper—less than the span of life the Psalmist gives to
-man—we have seen an Oath throne and dethrone monarchs; build up and
+period of this paper--less than the span of life the Psalmist gives to
+man--we have seen an Oath throne and dethrone monarchs; build up and
 destroy flourishing Commonwealths; make and unmake Statehoods; be a
 guarantee of peace, and an incentive for war. Who, under these
 conflicting conditions, can measure their influence but Him in whose
@@ -2741,7 +2766,7 @@ name and power they are made!
 
 
 
-Transcriber’s note:
+Transcriber's note:
 
  1. Spelling in oaths or quoted sections is uncorrected.
 
@@ -2749,4 +2774,368 @@ Transcriber’s note:
 
  3. Table of contents added by transcriber.
 
-*** END OF THE PROJECT GUTENBERG EBOOK 53843 ***
+
+
+***END OF THE PROJECT GUTENBERG EBOOK OATHS OF ALLEGIANCE IN COLONIAL NEW
+ENGLAND***
+
+
+******* This file should be named 53843.txt or 53843.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/3/8/4/53843
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
